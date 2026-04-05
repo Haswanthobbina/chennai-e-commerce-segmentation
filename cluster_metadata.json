@@ -1,0 +1,24 @@
+{
+  "cluster_names": {
+    "0": "\ud83d\udc8e Premium Loyalists",
+    "1": "\ud83e\uddea Occasional Browsers",
+    "2": "\ud83d\udd25 Bargain Hunters",
+    "3": "\u2b50 Regular Mainstream"
+  },
+  "features": [
+    "monthly_orders",
+    "avg_order_value",
+    "monthly_spend",
+    "reorder_rate",
+    "discount_usage_pct",
+    "app_sessions_per_week",
+    "num_categories_ordered",
+    "membership",
+    "tenure_months",
+    "days_since_last_order",
+    "complaints_filed",
+    "ratings_given"
+  ],
+  "optimal_k": 4,
+  "silhouette_score": 0.083
+}
